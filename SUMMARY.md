@@ -44,5 +44,6 @@
   * [烟花爆竹经营许可实施办法](部门规章/烟花爆竹经营许可实施办法.md)
   * [危险化学品重大危险源监督管理暂行规定](部门规章/危险化学品重大危险源监督管理暂行规定.md)
 * [地方法规](地方法规/README.md)
-  * [新疆维吾尔自治区](地方法规/xin-jiang-wei-wu-er-zi-zhi-qu.md)
+  * [新疆维吾尔自治区安全生产条例](地方法规/xin-jiang-wei-wu-er-zi-zhi-qu-an-quan-sheng-chan-tiao-li.md)
+  * [新疆维吾尔自治区安全生产事故隐患排查治理条例](地方法规/xin-jiang-wei-wu-er-zi-zhi-qu-an-quan-sheng-chan-shi-gu-yin-huan-pai-cha-zhi-li-tiao-li.md)
 * [标准规范](标准规范.md)
